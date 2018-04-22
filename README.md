@@ -1,1 +1,3 @@
 # LCNotes
+
+Notes of LeetCode
